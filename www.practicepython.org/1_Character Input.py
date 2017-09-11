@@ -1,0 +1,1 @@
+input("Jak se jmenuješ")
